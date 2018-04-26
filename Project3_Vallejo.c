@@ -1,3 +1,4 @@
+//program involves the use of threads to print out multiple random numbers and check to see if they are prime or not
 #include <stdio.h>
 #include <pthread.h>
 #include <stdlib.h>
